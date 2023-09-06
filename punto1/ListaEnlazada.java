@@ -1,7 +1,5 @@
 package poo.punto1;
 
-import poo.punto2.ListaEnlazadaDoble;
-
 public class ListaEnlazada {
     private Nodo primero= null;
 

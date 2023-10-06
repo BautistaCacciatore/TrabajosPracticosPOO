@@ -1,0 +1,2 @@
+
+El diseño actual me permitio introducir el cambio de manera muy sencilla. Yo creo que la cohesion y el acoplamiento se mantienen en muy buenos "terminos" al igual que el encapsulamiento. Agregue un metodo dentro de la clase Cuenta que permite cancelar una inversion, este metodo es accedido mediante mensajes a traves de la clase Usuario, por lo que la implementacion permanece "oculta". Ademas, dentro del metodo gastar de la Cuenta, implemente el fragmento de cancelar automaticamente una inversion cuando un usuario realiza un gasto mayor a su saldo.

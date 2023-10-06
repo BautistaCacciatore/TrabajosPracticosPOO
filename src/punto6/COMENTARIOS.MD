@@ -1,0 +1,2 @@
+Yo añadi al diseño propuesto la clase EstacionDeServicio que es la encargada de gestionar todo el sistema, es decir, la clase principal. 
+Otro cambio significativo que realice fue que el cliente no conoce a la venta, pero las ventas si a los clientes, cada venta tiene un cliente asignado. De esta manera, ModuloInformes conoce a las ventas y puede acceder a los clientes mediante las mismas.
